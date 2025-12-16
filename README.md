@@ -1,3 +1,7 @@
+| 1. Girdi | 2. Çıktı |
+| :---: | :---: |
+| ![Açıklama 1](futbol_tespit_projesi/video.png) | ![Açıklama 2](futbol_tespit_projesi/cikti.png) |
+
 # 📚 Supervision Kütüphanesi Rehberi
 
 Bu rehber, futbol analiz projesinde kullanılan **Supervision** kütüphanesi tekniklerini açıklar.
