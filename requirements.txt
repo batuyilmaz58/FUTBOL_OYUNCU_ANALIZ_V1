@@ -1,0 +1,13 @@
+# Futbol Ofsayt Tespit Sistemi - Gerekli Kütüphaneler
+# Kurulum: pip install -r requirements.txt
+
+# Temel Kütüphaneler
+ultralytics>=8.0.0          # YOLOv8 - Nesne tespiti
+supervision>=0.18.0          # Supervision - Görselleştirme ve takip
+opencv-python>=4.8.0         # OpenCV - Görüntü işleme
+numpy>=1.24.0                # NumPy - Sayısal hesaplamalar
+scikit-learn>=1.0.0          # Sklearn - Takım ayrımı için K-Means
+
+# Yardımcı Kütüphaneler
+tqdm>=4.65.0                 # İlerleme çubuğu
+
